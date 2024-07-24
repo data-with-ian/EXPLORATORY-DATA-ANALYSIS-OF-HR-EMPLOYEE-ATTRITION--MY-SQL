@@ -2,7 +2,7 @@
 
 ### PROJECT OVERVIEW
 
-Employee attrition refers to the process where employees leave a company through various means, such as voluntary resignations, layoffs, failure to return from a leave of absence, illness, or death. In this project, I conducted an exploratory data analysis (EDA) of employee attrition within a company by querying a dataset using SQL. I initiated the project by developing a hypothetical scenario where I assume the role of a data analyst within the company.
+Employee attrition is the process where employees leave a company through various means, such as voluntary resignations, layoffs, failure to return from a leave of absence, illness, or death. In this project, I conducted an exploratory data analysis (EDA) of employee attrition within a company. I initiated the project by developing a hypothetical scenario where I assume the role of a data analyst within the company and querying their dataset using SQL.
 
 ### TABLE OF CONTENTS
 
