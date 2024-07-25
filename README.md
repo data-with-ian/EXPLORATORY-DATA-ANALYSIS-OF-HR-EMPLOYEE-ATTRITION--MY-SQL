@@ -72,66 +72,127 @@ Employed SQL commands to derive insights for the assigned tasks.
 
 2.	Average Age of Employees:  37 years.
 
-3.	Number of Employees by Department: 
+3.	Number of Employees by Department:
+
+
 o	Sales: 446 
+
 o	Research & Development: 961 
+
 o	Human Resources: 63 
 
+
 4.	Average Monthly Income by Department:
+
+
 o	Sales: $6959
+
 o	Research & Development: $6281
+
 o	Human Resources: $6655
+
 
 5.	Number of Employees Who Have Left the Company: 237 employees.
 
+
+
 6.	Average Years at the Company:
+
+
 o	Employees Who Have Left: 5 years
+
 o	Employees Who Have Stayed: 7 years
 
+
 7.	Distribution of Employees by Job Role:
+
+
 o	Sales Executive: 326
+
 o	Research Scientist: 292
+
 o	Laboratory Technician: 259
+
 o	Manufacturing Director: 145
+
 o	Healthcare Representative: 131
+
 o	Manager: 102
+
 o	Sales Representative: 83
+
 o	Research Director: 80
+
 o	Human Resources: 52
 
+
 8.	Highest and Lowest Salary:
+
+
 o	Highest Salary: $19999
+
 o	Lowest Salary: $1009
+
 
 9.	Number of Employees with More Than 5 Years of Experience: 694 employees.
 
-10.	Gender Distribution of Employees in Each Department: 
+
+
+10.	Gender Distribution of Employees in Each Department:
+
+
 o	Human Resources: 20 females
+
 o	Human Resources: 43 males
+
 o	Research & Development: 379 females
+
 o	Research & Development: 582 males
+
 o	Sales: 189 females
+
 o	Sales: 257 males
+
 
 11.	Average Distance from Home for Employees Who Have Left the Company: 11 km.
 
+
+
 12.	Number of Employees in the Highest Performance Rating Category: 226 employees.
+
+
 
 13.	Average Years Since Last Promotion for Employees Who Have Left the Company: 2 years.
 
+
+
 14.	Employees Working Overtime and Correlation with Attrition:
+
+
 o	Employees Who Work Overtime and Have Left: 127
+
 o	Employees Who Work Overtime and Have Stayed: 289
 
+
 15.	Average Number of Companies Worked at:
+
+
 o	Employees Who Have Left: 3
+
 o	Employees Who Have Stayed: 3
+
 
 16.	Number of Employees with a Work-Life Balance Rating of 1: 80 employees.
 
+
+
 17.	Number of Employees Who Received a Promotion in the Last 5 Years by Department:
+
+
 o	Human Resources: 58 employees.
+
 o	Research & Development: 827 employees.
+
 o	Sales: 370 employees.
 
 
